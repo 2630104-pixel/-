@@ -1,0 +1,22 @@
+{
+  "mode": "code",
+  "user": "",
+  "email": "",
+  "newpass": "",
+  "wordlist": "words_builtin.txt",
+  "start": 0,
+  "end": 999999,
+  "workers": 2,
+  "delay": 1.0,
+  "jitter": 0.5,
+  "captcha": "off",
+  "captcha_key": "",
+  "proxy": "",
+  "proxy_file": "",
+  "require_proxy": false,
+  "cookie": "",
+  "out": "hits.txt",
+  "state": "state.json",
+  "webhook": "",
+  "no_resume": false
+}
